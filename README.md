@@ -13,7 +13,7 @@ FeatureDescription
 - 👤 ProfileView and manage your account
 
 ## 📸 Screenshots :
-# Authentication:-
+# Authentication:
  <div style= "display: flex; flex-direction: row;">
  <img src="https://github.com/DuaaBaroni/green_mart/blob/main/screenshot/spalsh.jpg" height="500">
  <img src="https://github.com/DuaaBaroni/green_mart/blob/main/screenshot/welcome.jpg" height="500">
@@ -22,13 +22,14 @@ FeatureDescription
  </div>
  
 <br>
- # Home_Screen
+
+ # Home_screen:
   <div style= "display: flex; flex-direction: row;">
  <img src="https://github.com/DuaaBaroni/green_mart/blob/main/screenshot/home.jpg" height="500">
   </div>
 <br>
 
-# Categories_screen & Search_screen
+# Categories_screen & Search_screen:
   <div style= "display: flex; flex-direction: row;">
  <img src="https://github.com/DuaaBaroni/green_mart/blob/main/screenshot/category.jpg" height="500">
  <img src="https://github.com/DuaaBaroni/green_mart/blob/main/screenshot/categpry_product.jpg" height="500">
@@ -44,16 +45,14 @@ FeatureDescription
 
    <br>
 
-# Cart_screen
+# Cart_screen:
   <div style= "display: flex; flex-direction: row;">
  <img src="https://github.com/DuaaBaroni/green_mart/blob/main/screenshot/cart.jpg" height="500">
  <img src="https://github.com/DuaaBaroni/green_mart/blob/main/screenshot/check_out.jpg" height="500">
   </div> 
-
-
    <br>
 
-# Profile_screen
+# Profile_screen:
   <div style= "display: flex; flex-direction: row;">
  <img src="https://github.com/DuaaBaroni/green_mart/blob/main/screenshot/profile.jpg" height="500">
   </div> 
